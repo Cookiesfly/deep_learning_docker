@@ -24,4 +24,4 @@ docker pull floydhub/dl-docker:cpu
 docker run -it -p 8888:8888 -p 6006:6006 -v /sharedfolder:/root/sharedfolder floydhub/dl-docker:cpu bash
 ```
 
-**Thanks for [floydhub/dl-docker](https://github.com/floydhub/dl-docker)!!!**
+## **Thanks for [floydhub/dl-docker](https://github.com/floydhub/dl-docker)!!!**
