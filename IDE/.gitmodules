@@ -1,3 +1,0 @@
-[submodule "tensorflow_app/caffe-tensorflow"]
-	path = tensorflow_app/caffe-tensorflow
-	url = https://github.com/ethereon/caffe-tensorflow.git
